@@ -1,7 +1,7 @@
 # Movies and Series
 that i have saved and could stream in a movie night
 
-My new Movie Nights Server https://discord.gg/btJY4mAgjS
+My new Movie Nights Server https://discord.gg/popcorngaming
 ## Movies
 - A Quiet Place
 - About Time
